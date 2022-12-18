@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CalibGraph",
+            "request": "launch",
+            "mainClass": "CalibGraph",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch TankInfo",
+            "request": "launch",
+            "mainClass": "TankInfo",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch SecondFrame",
+            "request": "launch",
+            "mainClass": "SecondFrame",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch CSVPlot",
+            "request": "launch",
+            "mainClass": "CSVPlot",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch csvPlot",
+            "request": "launch",
+            "mainClass": "csvPlot",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch fileio",
+            "request": "launch",
+            "mainClass": "fileio",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlotLiveDemo",
+            "request": "launch",
+            "mainClass": "ptolemy.plot.demo.PlotLiveDemo",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlotApplication",
+            "request": "launch",
+            "mainClass": "ptolemy.plot.PlotApplication",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch EditablePlotMLApplication",
+            "request": "launch",
+            "mainClass": "ptolemy.plot.plotml.EditablePlotMLApplication",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoPlotExample",
+            "request": "launch",
+            "mainClass": "ptolemy.plot.demo.TwoPlotExample",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch PxgraphApplication",
+            "request": "launch",
+            "mainClass": "ptolemy.plot.compat.PxgraphApplication",
+            "projectName": "java_test_6e3a8a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiFrame",
+            "request": "launch",
+            "mainClass": "multiFrame",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

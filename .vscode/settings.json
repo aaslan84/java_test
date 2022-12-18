@@ -1,0 +1,14 @@
+{
+    "java.codeGeneration.generateComments": true,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "D:/workspace/jdk-17.0.4.101-hotspot",
+            "default": true
+          },
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.dependency.syncWithFolderExplorer": true,
+    "python.formatting.provider": "black",
+    "java.debug.settings.onBuildFailureProceed": true
+}
